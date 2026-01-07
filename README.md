@@ -1,4 +1,3 @@
-![Project Logo](assets/queen.png)
 
 # ♟️ N-Queens Problem – Local Search Algorithms
 
