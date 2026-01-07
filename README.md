@@ -1,3 +1,5 @@
+![Project Logo](assets/queen.png)
+
 # ♟️ N-Queens Problem – Local Search Algorithms
 
 This project solves the **N-Queens problem** using **Local Search algorithms** as part of an *Artificial Intelligence course project*.
