@@ -129,8 +129,6 @@ Then choose the desired algorithm:
 
 ## 👤 Author
 
-**Your Name**
+**Parsa Zamani**
 
 ---
-
-⭐ If you find this project useful, feel free to star the repository!
